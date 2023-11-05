@@ -3,7 +3,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://tracker-friendly.github.io',
+	site: 'https://the-duat.github.io',
 	integrations: [
 		starlight({
 			title: 'The Duat',
